@@ -10,8 +10,8 @@ This folder contains the minified JavaScript and CSS files of the [voice-access]
 You can directly include these files in your project via CDN:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ercanvas/voice-access@main/minified-en/voice-access.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/ercanvas/voice-access@main/minified-en/voice-access.min.js" defer></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ercanvas/voice-access@main/voice-access.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/ercanvas/voice-access@main/voice-access.min.js" defer></script>
 ```
 
 To add the microphone button:
